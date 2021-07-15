@@ -8,3 +8,6 @@ This is a DAA Repsitory (Design & Analysis of Algorithms)
 ![name-of-you-image](https://github.com/LokeshRajwar/DAA-Lab-Assignments/blob/7349a6042f8642e0e3bf708b94d59bd2e5449256/Images/Screenshot%20(30).png)
 ### 3. Output.txt file for the Output Constraints:
 ![name-of-you-image](https://github.com/LokeshRajwar/DAA-Lab-Assignments/blob/9f6b1bf2529702b56eaf37b2af4020a03760cc89/Images/Screenshot%20(29).png)
+
+#### @ Thank You & Use Repository Safely 
+##### (Remember great power brings great responsibilities)
