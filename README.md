@@ -7,3 +7,4 @@ This is a DAA Repsitory (Design & Analysis of Algorithms)
 ### 2. Input.txt file for the Input Constraints:
 
 ### 3. Output.txt file for the Output Constraints:
+![name-of-you-image](https://github.com/LokeshRajwar/DAA-Lab-Assignments/blob/9f6b1bf2529702b56eaf37b2af4020a03760cc89/Images/Screenshot%20(29).png)
